@@ -1,0 +1,11 @@
+[13-Jul-2020 13:50:24 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/softcbqw/fashion.softifydigital.com/app/Http/Controllers/ProductController.php on line 16
+[13-Jul-2020 13:50:59 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/softcbqw/fashion.softifydigital.com/app/Http/Controllers/ProductController.php on line 16
+[13-Jul-2020 14:01:04 UTC] PHP Fatal error:  Cannot declare class Appl\Product because the name is already in use in /home/softcbqw/fashion.softifydigital.com/app/Product.php on line 8
+[13-Jul-2020 14:07:41 UTC] PHP Fatal error:  Cannot declare class App\Product because the name is already in use in /home/softcbqw/fashion.softifydigital.com/app/Product.php on line 8
+[13-Jul-2020 14:10:05 UTC] PHP Fatal error:  Cannot declare class App\Product because the name is already in use in /home/softcbqw/fashion.softifydigital.com/app/Product.php on line 8
+[13-Jul-2020 14:10:38 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/softcbqw/fashion.softifydigital.com/app/Product.php on line 11
+[13-Jul-2020 14:36:27 UTC] PHP Fatal error:  Cannot declare class App\Model\Product, because the name is already in use in /home/softcbqw/fashion.softifydigital.com/app/Cart.php on line 8
+[13-Jul-2020 14:41:12 UTC] PHP Fatal error:  Cannot declare class App\Model\Product, because the name is already in use in /home/softcbqw/fashion.softifydigital.com/app/Cart.php on line 8
+[13-Jul-2020 14:41:38 UTC] PHP Fatal error:  Cannot declare class App\Model\Product, because the name is already in use in /home/softcbqw/fashion.softifydigital.com/app/Cart.php on line 8
+[13-Jul-2020 14:43:37 UTC] PHP Fatal error:  Cannot declare class App\Model\Product, because the name is already in use in /home/softcbqw/fashion.softifydigital.com/app/Cart.php on line 8
+[13-Jul-2020 14:45:55 UTC] PHP Fatal error:  Cannot declare class App\Model\Product, because the name is already in use in /home/softcbqw/fashion.softifydigital.com/app/Cart.php on line 8
